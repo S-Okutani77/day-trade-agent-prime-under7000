@@ -1,0 +1,6 @@
+yfinance
+pandas
+requests
+feedparser
+beautifulsoup4
+xlrd
